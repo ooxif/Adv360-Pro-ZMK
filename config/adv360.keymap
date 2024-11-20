@@ -52,7 +52,7 @@
           &kp DEL     &kp LC(Q)       &kp END        &kp PG_UP  &kp PG_DN   &kp HOME            &kp KP_MINUS                                                            &kp KP_MINUS   &kp HOME  &kp PG_DN        &kp PG_UP        &kp END      &kp LC(Q)            &kp DEL
         &kp ENTER     &kp LC(A)      &kp LEFT           &kp UP   &kp DOWN  &kp RIGHT             &kp KP_PLUS  &kp ESC       &sl 2                       &sl 2  &kp ESC   &kp KP_PLUS   &kp LEFT   &kp DOWN           &kp UP      &kp RIGHT      &kp LC(A)          &kp ENTER
    &kp LEFT_SHIFT     &kp LC(Z)     &kp LC(X)        &kp LC(C)  &kp LC(V)  &kp K_APP                                   &kp LA(F4)                  &kp LA(F4)                         &kp K_APP  &kp LC(V)        &kp LC(C)      &kp LC(X)      &kp LC(Z)    &kp RIGHT_SHIFT
- &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_WIN  &kp LS(LC(F11))      &to 0                          &kp SPACE  &kp TAB   &kp LC(W)                   &kp LC(W)  &kp TAB     &kp SPACE                 &to 0  &kp LS(LC(F12))  &kp RIGHT_WIN  &kp RIGHT_ALT  &kp RIGHT_CONTROL
+ &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_WIN  &kp LS(LC(F11))      &to 0                          &kp SPACE  &kp TAB       &none                       &none  &kp TAB     &kp SPACE                 &to 0  &kp LS(LC(F12))  &kp RIGHT_WIN  &kp RIGHT_ALT  &kp RIGHT_CONTROL
             >;
         };
 
